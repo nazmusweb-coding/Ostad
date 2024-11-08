@@ -1,0 +1,43 @@
+1. VS Code Installation
+2. VS Code Extension Python,Python Debugger
+3. Python Installation
+4. Python Version Check  win: python --Version mac: python3 --version
+5. Pycharm Download & Installation
+6. What is Python
+    - high-level/mid-level
+    - interpreted
+    - simplicity, readability
+    - Guido van Rossum and first released in 1991
+
+7. Why Learn Python?
+- Simplicity
+- Versatility
+- Large Community
+
+8. Real-world Applications
+- Web Development
+- Data Science and Machine Learning
+- Automation and Scripting
+- Embedded Systems
+
+9. Writing and Running Your First Python Program
+    - .py extension file create
+    - run directly using pycharm run button
+    - run python code from your terminal -> win: python main.py mac: python3 main.py
+
+10. How Python Code Execute ?
+    - Line By Line Execute
+    - Debugging
+
+11. Understanding Code Execution & Introduce with debugging
+    - finding bugs
+    - making it easier to understand complex logic
+    - Small mistakes causing many errors
+    - helps break down
+    - understanding other people's code
+    - performance
+
+
+12 Python Comments
+    - # single line Comments
+    - """ """ multi line Comments
