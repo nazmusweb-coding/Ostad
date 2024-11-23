@@ -7,11 +7,11 @@ all_books =[]
 
 while True:
     print(f"\nWelcome to our Library Management System! Please select below menu ID")
-    print("Manu ID=0. Exit.")
-    print("Manu ID=1. Add Books.")
-    print("Manu ID=2. Update your Book.")
-    print("Manu ID=3. Remove a Select Book.")
-    print("Manu ID=4. View All Books.")
+    print("Menu ID=0. Exit.")
+    print("Menu ID=1. Add Books.")
+    print("Menu ID=2. Update your Book.")
+    print("Menu ID=3. Remove a Select Book.")
+    print("Menu ID=4. View All Books.")
 
     menu = input(f"\nSelect any Number: ")
 
