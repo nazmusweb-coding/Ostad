@@ -4,7 +4,6 @@ import view_balance
 import save_data
 import load_data
 
-# Load existing data
 account = load_data.load_account()
 
 while True:
@@ -27,7 +26,7 @@ while True:
 
     elif menu == "0":
         print(f"\nThanks for using our Banking Management System!")
-        save_data.save_account(account)  # Save data when exiting
+        save_data.save_account(account)
         break
 
     else:
