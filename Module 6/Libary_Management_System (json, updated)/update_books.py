@@ -10,6 +10,9 @@ def update_books(all_books):
             year = int(input("Enter Publishing Year Number: "))
             price = int(input("Enter Book Price: "))
             quantity = int(input("Enter Quantity Number: "))
+            if quantity < 0:
+                print("Failed to update: Quantity cannot be negative.")
+                return all_books
 
             book_last_updated_at = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
 
