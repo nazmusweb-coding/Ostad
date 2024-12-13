@@ -19,6 +19,9 @@ def lent_books(all_books, all_lent_books):
             if already_borrowed:
                 print("You have already borrowed this book from the same writer.")
                 return
+            elif book["quantity"] <= 0:
+                print("There are not enough books available to lend.")
+                return
 
             # Generate lending details
             lend_date = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
