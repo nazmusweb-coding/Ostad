@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Learn C",
+        "author": "James Watt",
+        "borrower_name": "Mohammad Ashiqul Islam",
+        "borrower_phone": "01521354455",
+        "lend_date": "13-12-2024 16:54:11",
+        "return_due_date": "22-01-2025 16:54:11"
+    }
+]

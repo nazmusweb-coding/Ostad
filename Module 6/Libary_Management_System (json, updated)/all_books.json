@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Learn C",
+        "author": "James Watt",
+        "isbn": 47994,
+        "year": 1978,
+        "price": 200,
+        "quantity": 149,
+        "bookAddedAt": "13-12-24 14:58:48",
+        "bookLastUpdatedAt": "13-12-2024 17:07:26"
+    }
+]
